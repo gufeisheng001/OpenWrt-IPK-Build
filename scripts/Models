@@ -32,6 +32,7 @@ GL.iNet AX1800: ipq60xx/generic
 Phicomm K3: bcm53xx/generic
 Newifi D2: ramips/mt7621
 HiWiFi HC5962: ramips/mt7621
+ZTE E8820S: ramips/mt7621
 
 # 树莓派系列
 Raspberry Pi 4B: bcm27xx/bcm2711
